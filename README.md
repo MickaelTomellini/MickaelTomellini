@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Mickael 👋⚡
 
-<!--
-**MickaelTomellini/MickaelTomellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Passionate about building, learning, and sharing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Developer. Creator. Explorer.
+
+I craft clean code and love turning ideas into digital reality.
+
+💡 I'm currently working on:
+
+    🚀 Side projects !
+
+    🎵 Music projects, mixing tech and emotion
+
+🌈 Interests:
+Web Dev · Automation · Design Systems · Creativity & Self-growth
+
+📫 Reach me:
+Feel free to connect, collaborate or just say hi!
+→ 
+
