@@ -8,7 +8,9 @@ Passionate about building, learning, and sharing.
 
 I craft clean code and love turning ideas into digital reality.
 
-💡 I'm currently working on: 
+💡 I'm currently working on:
+
+
 🚀 Side projects !
 
 🎵 Music projects, mixing tech and emotion
