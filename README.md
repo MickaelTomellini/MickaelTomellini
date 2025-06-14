@@ -7,14 +7,16 @@ Passionate about building, learning, and sharing.
 
 I craft clean code and love turning ideas into digital reality.
 
-💡 I'm currently working on:
+💡 I'm currently working on: 
+🚀 Side projects !
 
-    🚀 Side projects !
+🎵 Music projects, mixing tech and emotion
 
-    🎵 Music projects, mixing tech and emotion
 
 🌈 Interests:
 Web Dev · Automation · Design Systems · Creativity & Self-growth
+
+
 
 📫 Reach me:
 Feel free to connect, collaborate or just say hi!
