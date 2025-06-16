@@ -4,11 +4,12 @@
 
 Passionate about building, learning, and sharing.
 
-🔧 Developer. Creator. Explorer.
+
+⚔ Developer. Creator. Explorer.
 
 I craft clean code and love turning ideas into digital reality.
 
-💡 I'm currently working on:
+🚧 I'm currently working on:
 
 
 🚀 Side projects !
@@ -16,8 +17,8 @@ I craft clean code and love turning ideas into digital reality.
 🎵 Music projects, mixing tech and emotion
 
 
-🌈 Interests:
-Web Dev · Automation · Design Systems · Creativity & Self-growth
+⚡ Interests:
+Web Dev · Games · Music · Books · Creativity & Self-growth
 
 
 
