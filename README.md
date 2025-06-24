@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="600px" align="center">
+    <td width="500px" align="center">
      <img src= https://github.com/MickaelTomellini/MickaelTomellini/blob/a3b3b649264ebaaf9cecdd0c58256628206f8d83/img/pc%20(232).gif alt="Avatar" width="250px" >
     </td>
     <td>
@@ -21,9 +21,9 @@
 
 Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est in France, I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
 
-I enjoy building projects that solve real-world problems and create great user experiences. Constantly learning and evolving, I’m enthusiastic about open source and collaborating with other developers to improve my skills and contribute to the community.
+I enjoy building projects that solve real-world problems and create great user experiences. Constantly learning and evolving, I’m enthusiastic about collaborating with other developers to improve my skills and contribute to the community.
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you want to connect or collaborate!
+Feel free to explore my repositories and to reach out if you want to connect or collaborate!
 
 
 ---
