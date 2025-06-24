@@ -1,7 +1,7 @@
 
 
 
-<h1 width="500px" align="center" > 🌎 ᕼEᒪᒪO ᗯOᖇᒪᗪ 🌍 </h1>
+<h1 width="500px" align="center" > 🌍 ᕼEᒪᒪO ᗯOᖇᒪᗪ 🌎 </h1>
 <table>
   <tr>
     <td width="450px" align="center">
