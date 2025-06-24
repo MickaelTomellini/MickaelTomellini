@@ -4,7 +4,7 @@
 <h1 width="500px" align="center" > 🌎 ᕼEᒪᒪO ᗯOᖇᒪᗪ 🌍 </h1>
 <table>
   <tr>
-    <td width="4800px" align="center">
+    <td width="480px" align="center">
      <img src= https://github.com/MickaelTomellini/MickaelTomellini/blob/a3b3b649264ebaaf9cecdd0c58256628206f8d83/img/pc%20(232).gif alt="Avatar" width="250px" >
     </td>
     <td>
