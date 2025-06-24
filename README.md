@@ -8,7 +8,7 @@
      <img src= https://github.com/MickaelTomellini/MickaelTomellini/blob/a3b3b649264ebaaf9cecdd0c58256628206f8d83/img/pc%20(232).gif alt="Avatar" width="250px" >
     </td>
     <td>
-   <h2 align="right"> ⭐ My name is ᗰIᑕKᗩEᒪ ⭐ </h2>
+   <h2 align="center"> ⭐ My name is ᗰIᑕKᗩEᒪ ⭐ </h2>
    <p align="center">🛠️ Developer & Explorer 🗺️</p>
    </td>
   </tr>
