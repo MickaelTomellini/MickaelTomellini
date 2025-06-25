@@ -1,18 +1,7 @@
 
 
 
-<h1 width="500px" align="center" > 🌍 ᕼEᒪᒪO ᗯOᖇᒪᗪ 🌎 </h1>
-<table>
-  <tr>
-    <td width="450px" align="center">
-     <img src= https://github.com/MickaelTomellini/MickaelTomellini/blob/a3b3b649264ebaaf9cecdd0c58256628206f8d83/img/pc%20(232).gif alt="Avatar" width="250px" >
-    </td>
-    <td>
-   <h2> ⭐ My name is ᗰIᑕKᗩEᒪ ⭐ </h2>
-   <p align="center">🛠️ Developer & Explorer 🗺️</p>
-   </td>
-  </tr>
-</table>
+![cover](https://raw.githubusercontent.com/MickaelTomellini/MickaelTomellini/5e10422c7c1930dd946cbe8350d629ac92beb565/img/Hello%2C%20im...jpg)
 
 ---
 
