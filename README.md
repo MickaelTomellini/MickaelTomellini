@@ -16,32 +16,49 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 ### 💻️ Code & Coffee
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ## 🌐 Dev Setup
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30"/> <img src="https://avatars.githubusercontent.com/u/28635252?s=280&v=4" width="30"/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ---
 
 ## 🎨 Creative Toolbox
 
-<img src="https://cdn-1.webcatalog.io/catalog/canva-cn/canva-cn-icon-unplated.png" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/> <img src="https://img.icons8.com/ios/50/unsplash.png" width="30"/> <img src="https://matablettegraphique.fr/wp-content/uploads/2023/12/Procreate-est-un-logiciel-de-dessin-complet-sur-iPad.-e1702788561483.png" width="30"/>
-
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
+[![Procreate](https://img.shields.io/badge/Procreate-7B2CBF?style=for-the-badge&logo=procreate&logoColor=FF6F00)](https://procreate.com/)
 
 ---
 
 ## 🧰 Also Using
 
-<img src="https://cdn-1.webcatalog.io/catalog/mdn-web-docs/mdn-web-docs-icon-filled-256.png" width="30"/> <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" width="30"/>
+![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7B2CBF?style=for-the-badge&logo=discord&logoColor=FF6F00)
+
 
 
 ---
 
 ## 📮 Let's Connect ! ⤵️
 
-- 💼 [Visitez mon profil LinkedIn]()  
-- 🕊️ [Envoyez-moi un e-mail]()
+- 💼 Visitez mon profil LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+- 🕊️ Envoyez-moi un e-mail : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+- 🎧 Ma playlist : [![Deezer](https://img.shields.io/badge/Deezer-7B2CBF?style=for-the-badge&logo=deezer&logoColor=FF6F00)](https://www.deezer.com/fr/playlist/TON_ID)
