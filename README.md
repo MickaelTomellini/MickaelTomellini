@@ -5,7 +5,7 @@
 
 ## 🎸 Who I Am 🦝
 
-Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est in France, I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
+Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est, France 🇫🇷, I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
 
 I enjoy building projects that solve real-world problems and create great user experiences. Constantly learning and evolving, I’m enthusiastic about collaborating with other developers to improve my skills and contribute to the community.
 
@@ -27,7 +27,7 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 ---
 
-## 🌐 Dev Setup
+### 🌐 Dev Setup
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -37,7 +37,7 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 ---
 
-## 🎨 Creative Toolbox
+### 🎨 Creative Toolbox
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -46,7 +46,7 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 ---
 
-## 🧰 Also Using
+### 🧰 Also Using
 
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -57,7 +57,7 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 ---
 
-## 📮 Let's Connect ! ⤵️
+### 📮 Let's Connect ! ⤵️
 
 - 💼 Visitez mon profil LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
 - 🕊️ Envoyez-moi un e-mail : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
