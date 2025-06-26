@@ -1,7 +1,5 @@
 
-
-
-![cover](https://raw.githubusercontent.com/MickaelTomellini/MickaelTomellini/5e10422c7c1930dd946cbe8350d629ac92beb565/img/Hello%2C%20im...jpg)
+# HELLO
 
 ---
 
