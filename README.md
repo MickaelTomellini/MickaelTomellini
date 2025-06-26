@@ -5,7 +5,8 @@
 
 ## 🎸 Who I Am 🦝
 
-Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est, France 🇫🇷, I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
+Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est, France 🔵⚪🔴
+, I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
 
 I enjoy building projects that solve real-world problems and create great user experiences. Constantly learning and evolving, I’m enthusiastic about collaborating with other developers to improve my skills and contribute to the community.
 
