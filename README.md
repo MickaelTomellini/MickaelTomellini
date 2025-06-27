@@ -12,6 +12,8 @@ I enjoy building projects that solve real-world problems and create great user e
 
 Feel free to explore my repositories and to reach out if you want to connect or collaborate!
 
+(ps : You can get github badges here : https://github.com/Ileriayo/markdown-badges)
+
 
 ---
 
