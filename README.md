@@ -64,4 +64,4 @@ Feel free to explore my repositories and to reach out if you want to connect or 
 
 - 💼 Visitez mon profil LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
 - 🕊️ Envoyez-moi un e-mail : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
-- 🎧 Ma playlist : [![Deezer](https://img.shields.io/badge/Deezer-7B2CBF?style=for-the-badge&logo=deezer&logoColor=FF6F00)](https://www.deezer.com/fr/playlist/TON_ID)
+- 🎧 Ma playlist : [![Deezer](https://img.shields.io/badge/Deezer-7B2CBF?style=for-the-badge&logo=deezer&logoColor=FF6F00)](https://www.deezer.com/fr/playlist/13966158481?host=6474068841&utm_campaign=clipboard-generic&utm_source=user_sharing&utm_content=playlist-13966158481&deferredFl=1)
