@@ -40,6 +40,7 @@ Based in  ̴t̴h̴e̴ ̴M̴o̴r̴d̴o̴r̴  .... Grand Est, France 🔵⚪🔴
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Whimsical](https://img.shields.io/badge/Whimsical-5A67D8?style=for-the-badge&logo=whm&logoColor=white)](https://whimsical.com/)
 ![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
 [![Procreate](https://img.shields.io/badge/Procreate-7B2CBF?style=for-the-badge&logo=procreate&logoColor=FF6F00)](https://procreate.com/)
 
