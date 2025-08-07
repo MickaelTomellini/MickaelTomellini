@@ -5,7 +5,7 @@
 
 ## 🎸 Who I Am 🦝
 
-Based in   ̴M̴o̴r̴d̴o̴r̴  .... Grand Est, France 🔵⚪🔴
+Based in Grand Est, France 🔵⚪🔴
 , I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
 
 (ps : You can get github badges here : https://github.com/Ileriayo/markdown-badges)
