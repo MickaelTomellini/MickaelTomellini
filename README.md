@@ -59,6 +59,6 @@ Based in Grand Est, France 🔵⚪🔴
 
 ### 📮 Let's Connect ! ⤵️
 
-- 💼 Visitez mon profil LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-tomellini-16704915a)
-- 🕊️ Envoyez-moi un e-mail : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaeldev54@gmail.com)
-- 🎧 Ma playlist : [![Deezer](https://img.shields.io/badge/Deezer-7B2CBF?style=for-the-badge&logo=deezer&logoColor=FF6F00)](https://www.deezer.com/fr/playlist/13966158481?host=6474068841&utm_campaign=clipboard-generic&utm_source=user_sharing&utm_content=playlist-13966158481&deferredFl=1)
+- 💼 Visit my LinkedIn profile : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-tomellini-16704915a)
+- 🕊️ Send me an email : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaeldev54@gmail.com)
+- 🎧 My playlist : [![Deezer](https://img.shields.io/badge/Deezer-7B2CBF?style=for-the-badge&logo=deezer&logoColor=FF6F00)](https://www.deezer.com/fr/playlist/13966158481?host=6474068841&utm_campaign=clipboard-generic&utm_source=user_sharing&utm_content=playlist-13966158481&deferredFl=1)
