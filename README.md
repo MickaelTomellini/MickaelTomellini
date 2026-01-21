@@ -1,5 +1,6 @@
 
-![cover](https://github.com/MickaelTomellini/MickaelTomellini/blob/6456669c88e4ba3acffd1e6b4edfc1de39e966f7/img/Banni%C3%A8re%20LinkedIn%20gris%20illustration%20minimaliste%20d%C3%A9veloppeur%20web%20(1).png)
+![cover](https://drive.google.com/uc?export=view&id=1BjEN0mO0Zh9GyOdMhWzAW2jJOd9A1jED)
+
 
 ---
 
@@ -7,6 +8,9 @@
 
 Based in Grand Est, France 🔵⚪🔴
 , I have always been fascinated by programming — whether through video games, books, or movies. This passion inspired me to dive deeper into the world of coding, which ultimately led me to become a developer.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-mickael.vercel.app/)
+
 
 (ps : You can get github badges here : https://github.com/Ileriayo/markdown-badges)
 
@@ -18,10 +22,17 @@ Based in Grand Est, France 🔵⚪🔴
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/fr)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://sveltefr.dev/)
 [![Github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=52B0E7)](https://sequelize.org/docs/v6/)
+
 
 ---
 
@@ -42,6 +53,9 @@ Based in Grand Est, France 🔵⚪🔴
 [![Whimsical](https://img.shields.io/badge/Whimsical-5A67D8?style=for-the-badge&logo=whm&logoColor=white)](https://whimsical.com/)
 [![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/)
 [![Procreate](https://img.shields.io/badge/Procreate-7B2CBF?style=for-the-badge&logo=procreate&logoColor=FF6F00)](https://procreate.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://helpx.adobe.com/illustrator/user-guide.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://helpx.adobe.com/photoshop/user-guide.html)
+
 
 ---
 
